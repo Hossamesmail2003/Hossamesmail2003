@@ -21,7 +21,7 @@ I build **end-to-end web applications** — from robust backend APIs to clean an
 - React, Tailwind CSS, HTML, CSS, JavaScript  
 
 **Backend**  
-- PHP (**Laravel**)  
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)  
 - Python (**Django**)  
 
 
