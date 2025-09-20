@@ -1,10 +1,42 @@
-- 👋 Hi, I’m @Hossamesmail2003
-- 👀 I’m interested in computer science
-- 🌱 I’m currently learning backend
-- 📫 How to reach me
-- hossam02003@gmail.com
+# 👋 Hi, I'm Hossam Esmail  
 
-<!---
-Hossamesmail2003/Hossamesmail2003 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🚀 **Full-Stack Developer | Laravel, Django & React**  
+
+I build **end-to-end web applications** — from robust backend APIs to clean and interactive frontends. My main focus is on **secure authentication, scalable systems, and modern UI/UX**.  
+
+---
+
+## 👀 Interests
+- Full-Stack Development (Laravel, Django, React)  
+- API Design & Authentication (**JWT, OAuth2**)  
+- Real-time Systems (**Socket.IO, Redis, WebSockets**)  
+- Database Design & Optimization (**MySQL, PostgreSQL**)  
+- Cloud & Deployment (**Linux, Docker**)  
+
+---
+
+
+## 🛠️ Tech Stack
+**Frontend**  
+- React, Tailwind CSS, HTML, CSS, JavaScript  
+
+**Backend**  
+- PHP (**Laravel**)  
+- Python (**Django**)  
+
+
+**Databases & Tools**  
+- MySQL, PostgreSQL, SQLite  
+- Redis, Docker, Git/GitHub, Postman, Swagger  
+
+---
+
+
+## 📫 Contact
+- 📧 Email: **hossam02003@gmail.com**  
+- 🐙 GitHub: [github.com/Hossamesmail2003] 
+- 💼 LinkedIn: **www.linkedin.com/in/hossam-esmaill**  
+
+---
+
+⭐ *Full-Stack developer — building scalable APIs and modern web apps with Laravel, Django, and React.*  
